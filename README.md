@@ -1,11 +1,78 @@
-# EXCEL-PROJECT 
+# Excel Sales & Operations Analysis Dashboard
 
-An interactive Excel Sales Dashboard built using the Superstore dataset to analyze sales performance across regions, time, and customer segments.
+This project is an interactive Excel dashboard created using the Superstore dataset to analyze sales and operational performance.
 
-The dashboard highlights key KPIs including Total Sales, Transactions, and Quantity Ordered, with slicers for region and year to enable quick drill-down analysis.
+The dashboard transforms raw sales data into an interactive business report using Pivot Tables, Pivot Charts, slicers, and Power Query.
 
-This project demonstrates strong skills in data cleaning, pivot tables, pivot charts, slicers, and business-focused reporting, with an emphasis on turning raw data into actionable insights.
-<br>
+## Project Objective
 
-<image src="https://github.com/shiivam-lab/EXCEL-PROJECT/blob/308f23a656ea0ade370f7c32f5d8ce4c701991fc/EXCEL%20PROJECT%201.png" alt="Image description" width="600">
+The objective of this project is to analyze sales performance, order activity, customer segments, regions, product categories, and monthly trends using Microsoft Excel.
 
+## Key KPIs
+
+- Total Sales
+- Total Quantity
+- Total Orders
+- Average Order Value
+
+## Analysis Covered
+
+- Sales performance by region
+- Sales by product category
+- Customer segment analysis
+- Monthly sales trends
+- Order volume analysis
+- Quantity analysis
+- Regional performance comparison
+- Category and segment performance
+
+## Dashboard Features
+
+- Interactive slicers
+- Pivot Tables
+- Pivot Charts
+- Monthly trend analysis
+- Region-wise analysis
+- Category-wise analysis
+- Segment-wise analysis
+- KPI reporting
+
+## Tools & Technologies
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Power Query
+- Slicers
+- Data Cleaning
+- Data Transformation
+- Business Reporting
+
+## Files Included
+
+### Dashboard.xlsx
+
+Interactive Excel dashboard containing the analysis and visualizations.
+
+### Superstore Data.xlsx
+
+Source dataset used for the analysis.
+
+### EXCEL PROJECT 1.png
+
+Dashboard preview screenshot.
+
+## Business Value
+
+The dashboard converts raw sales data into an interactive reporting tool that can be used to monitor sales performance, compare regions and categories, identify trends, and understand customer segment performance.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Excel Dashboard Development
+- Pivot Table Analysis
+- Data Visualization
+- KPI Reporting
+- Trend Analysis
+- Business Analysis
