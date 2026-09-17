@@ -2,7 +2,7 @@
 
 This project is an interactive Excel dashboard created using the Superstore dataset to analyze sales and operational performance.
 
-The dashboard transforms raw sales data into an interactive business report using Pivot Tables, Pivot Charts, slicers, and Power Query.
+The dashboard transforms raw sales data into an interactive business report using Pivot Tables, Pivot Charts, Slicers, and Power Query.
 
 ## Project Objective
 
@@ -10,10 +10,10 @@ The objective of this project is to analyze sales performance, order activity, c
 
 ## Key KPIs
 
-- Total Sales
-- Total Quantity
-- Total Orders
-- Average Order Value
+- Total Sales: 349,943.91
+- Total Quantity: 1,615
+- Total Orders: 642
+- Average Order Value: 572.27
 
 ## Analysis Covered
 
@@ -25,17 +25,24 @@ The objective of this project is to analyze sales performance, order activity, c
 - Quantity analysis
 - Regional performance comparison
 - Category and segment performance
+- Shipping class analysis
 
 ## Dashboard Features
 
 - Interactive slicers
+- KPI cards
 - Pivot Tables
 - Pivot Charts
 - Monthly trend analysis
 - Region-wise analysis
 - Category-wise analysis
 - Segment-wise analysis
-- KPI reporting
+- Shipping class analysis
+- Interactive business reporting
+
+## Dashboard Preview
+
+![Sales & Operations Dashboard](Sales_Operations_Dashboard.png)
 
 ## Tools & Technologies
 
@@ -46,25 +53,26 @@ The objective of this project is to analyze sales performance, order activity, c
 - Slicers
 - Data Cleaning
 - Data Transformation
+- Data Visualization
 - Business Reporting
 
 ## Files Included
 
-### Dashboard.xlsx
+### Sales_Operations_Dashboard.xlsx
 
 Interactive Excel dashboard containing the analysis and visualizations.
 
-### Superstore Data.xlsx
+### Superstore_Sales_Data.xlsx
 
 Source dataset used for the analysis.
 
-### EXCEL PROJECT 1.png
+### Sales_Operations_Dashboard.png
 
 Dashboard preview screenshot.
 
 ## Business Value
 
-The dashboard converts raw sales data into an interactive reporting tool that can be used to monitor sales performance, compare regions and categories, identify trends, and understand customer segment performance.
+The dashboard converts raw sales data into an interactive reporting tool that can be used to monitor sales performance, compare regions and categories, identify monthly trends, and understand customer segment performance.
 
 ## Skills Demonstrated
 
@@ -72,7 +80,9 @@ The dashboard converts raw sales data into an interactive reporting tool that ca
 - Data Transformation
 - Excel Dashboard Development
 - Pivot Table Analysis
+- Pivot Chart Development
 - Data Visualization
 - KPI Reporting
 - Trend Analysis
 - Business Analysis
+- Interactive Reporting
